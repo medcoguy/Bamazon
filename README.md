@@ -18,7 +18,7 @@
 ![Order good](/images/purchase3.PNG)
 ![Order good](/images/purchase4.PNG)
 ### -The stock quantity will is then updated to replect the purchased items. 
-![Order good](/images/updated%2inventory.PNG)
+![Order good](/images/updated%20inventory.PNG)
 
 ### -If there is insufficient quantity in stock of the requested item/s, the user will be shown a messagem and the order will not be processed.
 ![insufficient inventory](/images/low%20inventory.PNG)
