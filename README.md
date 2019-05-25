@@ -7,11 +7,9 @@
 * MYSQL
 * Inquirer
 * CLI-table
-==============================================================================
-### Screenshots
 
-### -Running `node bamazonCustomer.js` will use MySQL to pull up all of the products for sale.
-### -The customer can then choose a product using its ID and then enter a quantity to buy. 
+============================================================================
+### Screenshots
 
 ![Customer Order](/images/purchase1.PNG)
     
@@ -20,9 +18,9 @@
 ![Order good](/images/purchase3.PNG)
 ![Order good](/images/purchase4.PNG)
 ### -The stock quantity will is then updated to replect the purchased items. 
-![Order good](/images/updated inventory.PNG)
+![Order good](/images/updated%2inventory.PNG)
 
 ### -If there is insufficient quantity in stock of the requested item/s, the user will be shown a messagem and the order will not be processed.
-![insufficient inventory](/images/low inventory.PNG)
+![insufficient inventory](/images/low%20inventory.PNG)
   ### -Once the customer chooses now to buy additional idtems, a goodbuy message is displayed.     
-![Goodbye](/images/Goodbye message.PNG)
+![Goodbye](/images/Goodbye%20message.PNG)
